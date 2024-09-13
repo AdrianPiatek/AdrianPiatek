@@ -1,6 +1,6 @@
 ## Education
 - *Engineer's degree* in **Industrial informatics** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)
-- *master's degree* in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)
+- *Master's degree* in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)
 ### Languages and Technologies 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
